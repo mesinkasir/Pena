@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# PENA BLOGGER PICO WEB TEMPLATE
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/Pena/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+simple clean pena pico website template
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![blog pena pico themes template](https://blogger.googleusercontent.com/img/a/AVvXsEjawbPBRGsAh3Okw_5EeKvVbPlB5G3t0AQunA_dNyIos0YnL_4Z_a2u2IqImgqO4HYODGBeruFxZOU8w_IVD_TlAXJ0z2np4-IBFwatqLiJ4wuJHX8uh2y8hOkLuqoiE6KwTDRsnacgvC3Bat8_gZW3i-5MdeMmK_8Onr0BdXorx0KvUECKaD1ge9ExVw=s1349)
 
-### Markdown
+Simple clean design
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Demo 🚀 : [https://axcora.my.id/pena/](https://axcora.my.id/pena/)
 
-# Header 1
-## Header 2
-### Header 3
+Documentation 💻 : 
+[https://www.hockeycomputindo.com/2022/03/pembuatan-website-pico-pena-blog-free.html](https://www.hockeycomputindo.com/2022/03/pembuatan-website-pico-pena-blog-free.html)
 
-- Bulleted
-- List
+---------------------------
 
-1. Numbered
-2. List
+![blog pena pico themes template](https://blogger.googleusercontent.com/img/a/AVvXsEgiRQNMaTsNrCYl-7gh7J3amjaqVjkBEJSp0KyQOCk8c9hJhXEP2ZsoX_4eBayRnDZ5JubTeuiehz9N6SDfUDcR7QJBU8FYxgfzWJ4XkPrzk2eKIF7WZgGWN_oLxHoFjlyzSr9nG_H7DR1hIZA7JCVD_sQ7kzu6jJyG-FueRpwpqZFMKJUOgr6QN368RQ=s1349)
 
-**Bold** and _Italic_ and `Code` text
+Blog page list
 
-[Link](url) and ![Image](src)
-```
+![blog pena pico themes template](https://blogger.googleusercontent.com/img/a/AVvXsEiSfvIxvhh_o7sS3vtfB3aEljqyZt6Ekv8fnpwcUpCsqg6807JgIbI1Cgnic3ehWMGbgVB3_foZ4DeDLUQXrqk7Nrw341oSegJSmH7Q8t2SgwhxXMTd-X-aC_j7enYVqGDnBxQhJn519CeHj0_Ny_N8CFTe4h0jgXOq4NaXEtXAyS5IGqeFNG5TIGty7w=s1366)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Blog Posting
 
-### Jekyll Themes
+![pico themes template](https://blogger.googleusercontent.com/img/a/AVvXsEihS8W2OZaY8iUy8yq9Q1uCfRRmB0A66XJl9zLXPQB3R79l58f526njjrvUYRbR-WhOycYSMq__sXXMbd9qkheOvWjA-DVpNxWuYzkFFLIZmSqftKnkbGJXs-GdBpolp0XLLlf2FydUDgt8CRMxQ1KtdJQ3KzgafKeAabYRYryf7vJ6Rap9e4ExvvZSNw=s1349)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/Pena/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Page post
 
-### Support or Contact
+![blog pena pico themes template](https://blogger.googleusercontent.com/img/a/AVvXsEjA7N0ybGeyw17tplb03wSZZTaO7oR9b2ieL8-ugH7p2x_qaMam0WPsnw2g1JFb5x2zJJ3Fzk0Cjs0WPs0KPkr_TfyMYcTZDosNvJzHe_UjvdIsSc776OC4tktbXn61tfbNkQbbFXOw6yR9GYThmF27ELFJPOYPSgqAojd6SYMhqVAy5UTjWePEtFMorQ=s1366)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Backend pico edit
+
+-------------------
+
+
+### Login page url/pico_edit
+
+user password : axcora
+
+### Change password
+
+open plugins/pico_edit/config.php 
+
+generate hash password : https://convertstring.com/Hash/SHA256 
+
+and copy password hash to $backend_password : ' '
+
+---------------------------------
+Buy me a coffee ☕️ ❤️ ✌🏻
+
+with moneygram or western union
+
+    BANK CENTRAL ASIA
+    ACCOUNT NO : 0181884109
+    ACCOUNT NAME : SUCI CHANIFAH
+    IBAN/SWIFT CODE : CENAIDJA
+
+
