@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+      h1 {
+        font: 100 1.515rem/1.575rem 'Pacifico', cursive;
+      }
+      h2 {
+        font: 100 1.415rem/1.475rem 'Pacifico', cursive;
+      }
+      h3 {
+        font: 100 1.315rem/1.375rem 'Pacifico', cursive;
+      }
+      html{
+        font: 100 1.115rem/1.175rem 'Dancing Script', cursive;
+      }
+      body{
+        font: 100 1.115rem/1.175rem 'Dancing Script', cursive;
+      }
+      p {
+        font: 100 1.115rem/1.175rem 'Dancing Script', cursive;
+      }
+      d {
+        font: 100 0.815rem/0.875rem 'Dancing Script', cursive;
+      }
+        a:link {
+      text-decoration: none;
+        }
+
+        a:visited {
+      text-decoration: none;
+    }
+    a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: black;
+}
